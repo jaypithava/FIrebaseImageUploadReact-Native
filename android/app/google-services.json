@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336765079537",
+    "project_id": "reactimageupload-926c0",
+    "storage_bucket": "reactimageupload-926c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336765079537:android:20d97d6511cb34637efe50",
+        "android_client_info": {
+          "package_name": "com.uplodingphototofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336765079537-vlcqc7f5fat3djmttv9b7fv0pgofdbla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uplodingphototofirebase",
+            "certificate_hash": "0711c7826b132e22690b8b56ce068ef24bb1d9cb"
+          }
+        },
+        {
+          "client_id": "336765079537-g31ek0fol3apdf3fac6uq3o353ssmsr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlE2rgpOKY80kN6g64AnCOzri46x_gxr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336765079537-g31ek0fol3apdf3fac6uq3o353ssmsr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
